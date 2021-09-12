@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/retromoon/static/css/main.a79a74f9.chunk.css",
-    "main.js": "/retromoon/static/js/main.4a077ee9.chunk.js",
-    "main.js.map": "/retromoon/static/js/main.4a077ee9.chunk.js.map",
+    "main.js": "/retromoon/static/js/main.3060d750.chunk.js",
+    "main.js.map": "/retromoon/static/js/main.3060d750.chunk.js.map",
     "runtime-main.js": "/retromoon/static/js/runtime-main.4905f147.js",
     "runtime-main.js.map": "/retromoon/static/js/runtime-main.4905f147.js.map",
     "static/css/2.202141ce.chunk.css": "/retromoon/static/css/2.202141ce.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.202141ce.chunk.css",
     "static/js/2.b17eb5ea.chunk.js",
     "static/css/main.a79a74f9.chunk.css",
-    "static/js/main.4a077ee9.chunk.js"
+    "static/js/main.3060d750.chunk.js"
   ]
 }
